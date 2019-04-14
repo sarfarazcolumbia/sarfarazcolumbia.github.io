@@ -10,7 +10,7 @@ const examples = {
   'example1':
       'That, trusted home, Might yet enkindle you unto the crown, Besides the Thane of Cawdor.',
   'example2':
-      'There was a strange rumour in Highbury of all the little Perrys being seen with a slice of Mrs. Weston's wedding-cake in their hands: but Mr. Woodhouse would never believe it.',
+      'There was a strange rumour in Highbury of all the little Perrys being seen with a slice of Mrs. Westons wedding-cake in their hands: but Mr. Woodhouse would never believe it.',
   'example3':
       'Again, I always go to sea as a sailor, because they make a point of paying me for my trouble, whereas they never pay passengers a single penny that I ever heard of.',
   'example4':
