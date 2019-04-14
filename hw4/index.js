@@ -8,13 +8,13 @@ const HOSTED_URLS = {
 
 const examples = {
   'example1':
-      'Alice was beginning to get very tired of sitting by her sister on the bank.',
+      'That, trusted home, Might yet enkindle you unto the crown, Besides the Thane of Cawdor.',
   'example2':
-      'Buda-Pesth seems a wonderful place.',
+      'There was a strange rumour in Highbury of all the little Perrys being seen with a slice of Mrs. Weston's wedding-cake in their hands: but Mr. Woodhouse would never believe it.',
   'example3':
-      'Scepticism was as much the result of knowledge, as knowledge is of scepticism.',
+      'Again, I always go to sea as a sailor, because they make a point of paying me for my trouble, whereas they never pay passengers a single penny that I ever heard of.',
   'example4':
-      'example 4'
+      'To whom thus _Eve_ with sad demeanour meek. Ill worthie I such title should belong To me transgressour, who for thee ordaind A help, became thy snare; to mee reproach'
 };
 
 function status(statusText) {
